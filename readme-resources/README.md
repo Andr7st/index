@@ -15,7 +15,7 @@
 | ![icon](./readme-resources/illustrative-icons/ico-122-64px.png?raw=true ) | *     | 122 |
 | ![icon](./readme-resources/illustrative-icons/ico-292-64px.png?raw=true ) | *     | 292 |
 | ![icon](./readme-resources/illustrative-icons/ico-304-64px.png?raw=true ) | *     | 304 |
-| ![icon](./readme-resources/illustrative-icons/ico-305-64px.png?raw=true ) | *     | 305 |
+| ![icon](./illustrative-icons/ico-305-64px.png?raw=true ) | *     | 305 |
 <!-- 
 hotlink: https://raw.githubusercontent.com/Andr7st/index/main/readme-resources/illustrative-icons/ico-{code}-64px.png
 -->
