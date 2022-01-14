@@ -1,4 +1,26 @@
 {
-  "title": "Animal Charities",
-  "reading": [ "There are lots of animal charities. Some charities are small, and they help local animals. Other charities are large international organizations that help animals all around the world. Charities help animals in many ways, but they need money to do this. Many people give money to animal charities. Some people give money to adopt an animal. The animal stays in its home, but the charity uses the money to help to keep it safe. Some volunteers from an animal charity in Germany collect toads that are migrating near dangerous roads. Then they take them to a safer place." ]
+  "r01": [
+    {
+      "title": "Animal Charities",
+      "reading": [ "There are lots of animal charities. Some charities are small, and they help local animals. Other charities are large international organizations that help animals all around the world. Charities help animals in many ways, but they need money to do this. Many people give money to animal charities. Some people give money to adopt an animal. The animal stays in its home, but the charity uses the money to help to keep it safe. Some volunteers from an animal charity in Germany collect toads that are migrating near dangerous roads. Then they take them to a safer place." ]
+    }
+  ],
+  "r02": [
+    {
+      "title": "R02",
+      "reading": [ "R02" ]
+    }
+  ],
+  "r03": [
+    {
+      "title": "R03",
+      "reading": [ "R03" ]
+    }
+  ],
+  "r04": [
+    {
+      "title": "R04",
+      "reading": [ "R04" ]
+    }
+  ]
 }

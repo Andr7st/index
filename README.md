@@ -8,11 +8,15 @@
 </p>
 <br/>
 
+<!--
+
 #### personal hotlink icons:
 | icon | name | code |
 | --- | --- | --- |
 | ![icon](./readme-resources/illustrative-icons/ico-070-64px.png?raw=true ) | linux     | 070 |
 | ![icon](./readme-resources/illustrative-icons/ico-090-64px.png?raw=true ) | git     | 090 |
+-->
+
 <!-- 
 hotlink: https://raw.githubusercontent.com/Andr7st/index/main/readme-resources/illustrative-icons/ico-{code}-64px.png
 -->
