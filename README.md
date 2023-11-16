@@ -20,6 +20,11 @@
 ![icon](./readme-resources/social/banner_452.png?raw=true )
 
 
+[![Watch the video](https://img.youtube.com/vi/RrlDv-ts2f0/hqdefault.jpg)](https://www.youtube.com/embed/RrlDv-ts2f0)
+
+[<img src="https://img.youtube.com/vi/RrlDv-ts2f0/hqdefault.jpg" width="600" height="300"
+/>](https://www.youtube.com/embed/RrlDv-ts2f0)
+
 
 
 <!-- 
