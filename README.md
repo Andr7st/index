@@ -20,14 +20,17 @@
 ![icon](./readme-resources/social/banner_452.png?raw=true )
 
 
-[![Watch the video](https://img.youtube.com/vi/RrlDv-ts2f0/hqdefault.jpg)](https://www.youtube.com/embed/RrlDv-ts2f0)
+<!-- 
 
+Embed video 
+<p align="center">
 [<img src="https://img.youtube.com/vi/RrlDv-ts2f0/hqdefault.jpg" width="600" height="300"
 />](https://www.youtube.com/embed/RrlDv-ts2f0)
+</p>
+ [![Watch the video](https://img.youtube.com/vi/RrlDv-ts2f0/hqdefault.jpg)](https://www.youtube.com/embed/RrlDv-ts2f0)
 
 
 
-<!-- 
 hotlink: https://raw.githubusercontent.com/Andr7st/index/main/readme-resources/illustrative-icons/ico-{code}-64px.png
 -->
 
